@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+  }
+.root{
+    flex-grow: 1;
+    width: 100%;
+    margin-bottom: 50px;
+    text-align: center;
+    border: 5px solid lightskyblue;
+
+}
+.title{
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    color:whitesmoke;
+
+}
+a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+
